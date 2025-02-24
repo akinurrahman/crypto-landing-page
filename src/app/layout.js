@@ -3,7 +3,8 @@ import "./globals.css";
 
 const dmSans = DM_Sans({
   subsets: ["latin"],
-  weight: ["400", "500", "700"],
+  weight: ["400", "500", "600", "700", "800"],
+  variable: "--font-dm-sans",
 });
 
 export const metadata = {
@@ -14,7 +15,7 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="en" className="dark">
-      <body className={`${dmSans.variable}  antialiased`}>{children}</body>
+      <body className={`${dmSans.className}  antialiased`}>{children}</body>
     </html>
   );
 }
