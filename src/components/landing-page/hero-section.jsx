@@ -5,7 +5,7 @@ import { icons, images } from '@/constants/images.constants';
 
 const HeroSection = () => {
   return (
-    <section className='flex flex-col md:flex-row mt-[72px] lg:gap-10'>
+    <section className='flex flex-col md:flex-row  lg:gap-10'>
       <div className='md:w-1/2'>
         <h2 className='font-medium tracking-tight text-primary text-sm md:text-base bg-white/10 rounded-full px-4 py-1 inline-block'>Future of Crypto trading</h2>
         <p className='flex flex-col font-medium text-3xl sm:text-4xl lg:text-6xl xl:text-7xl leading-[40px]  tracking-tight mt-[18px] mb-[12px]'>

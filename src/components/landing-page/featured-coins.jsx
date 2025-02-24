@@ -15,7 +15,7 @@ const FeaturedCoinCard = ({title, name, icon, price}) => {
 
 const FeaturedCryptoCoins = () => {
   return (
-    <section className='my-[72px]'>
+    <section>
       <h2 className="text-center text-lg tracking-tight">
         Featured <span className="text-primary">Crypto Coins</span>
       </h2>

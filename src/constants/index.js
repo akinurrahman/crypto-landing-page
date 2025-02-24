@@ -71,3 +71,19 @@ export const featuredCoins = [
   }
 
 ];
+
+
+export const whyCrypgo = [
+  {
+    title: 'Design for crypto trading platforms',
+    icon : icons.iconForDesign,
+  },
+  {
+    title: 'Kickstart your crypto website today',
+    icon : icons.iconForKickstart,
+  },
+  {
+    title: 'Launch your blockchain platform today',
+    icon : icons.settingIcon,
+  }
+]

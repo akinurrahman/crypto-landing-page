@@ -14,9 +14,12 @@ import lightcoin from '@/assets/icons/lightcoin.svg'
 import polkadot from '@/assets/icons/polkadot.svg'
 import solana from '@/assets/icons/solana.svg'
 import chainlink from '@/assets/icons/chainlink.svg'
-
+import settingIcon from '@/assets/icons/setting.svg'
+import iconForDesign from '@/assets/icons/clip.svg'
+import iconForKickstart from '@/assets/icons/lightning.svg'
 
 import heroImage from '@/assets/images/hero-image.png'
+import whyCrypgoHeroImage from '@/assets/images/why-crypgo-hero.png'
 
 import shadow from '@/assets/overlays/shadow.svg'
 
@@ -35,11 +38,15 @@ export const icons = {
     lightcoin,
     polkadot,
     solana,
-    chainlink
+    chainlink,
+    settingIcon,
+    iconForDesign,
+    iconForKickstart
 }
 
 export const images = {
-    heroImage
+    heroImage,
+    whyCrypgoHeroImage
 }
 export const overlays = {
     shadow
