@@ -17,6 +17,9 @@ const tailwindConfig = {
           foreground: "hsl(var(--primary-foreground))",
         },
       },
+      letterSpacing : {
+        tight: "-0.06px",
+      }
     },
     
   },

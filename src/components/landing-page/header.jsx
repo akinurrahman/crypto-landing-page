@@ -37,13 +37,14 @@ const Header = () => {
       <ul
         className={`${
           isMenuOpen ? "flex" : "hidden"
-        } md:flex flex-col md:flex-row absolute md:relative top-full left-0 right-0 bg-white/10 rounded-md md:bg-transparent mt-4 md:mt-0 p-4 md:p-0 shadow-md md:shadow-none items-start md:items-center gap-y-4 md:gap-y-0 md:gap-x-10 w-full md:w-auto `}
+        } md:flex flex-col md:flex-row absolute md:relative top-full left-0 right-0   bg-primary/10 backdrop-blur-lg
+ rounded-md md:bg-transparent mt-4 md:mt-0 p-4 md:p-0 shadow-md md:shadow-none items-start md:items-center gap-y-4 md:gap-y-0 md:gap-x-10 w-full md:w-auto `}
       >
         {navLinks.map((link, idx) => (
           <li key={idx}>
             <Link
               href={link.href}
-              className="text-sm font-medium -tracking-[0.06px] hover:text-primary"
+              className="text-sm font-medium tracking-tight hover:text-primary"
             >
               {link.label}
             </Link>
