@@ -20,6 +20,11 @@ import iconForManage from "@/assets/icons/manage.svg";
 import iconForVault from "@/assets/icons/vault.svg";
 import mobileIcon from "@/assets/icons/mobile.svg";
 import tickMark from "@/assets/icons/tick-mark.svg";
+import instagram from "@/assets/icons/instagram.svg";
+import twitter from "@/assets/icons/twitter.svg";
+import facebook from "@/assets/icons/facebook.svg";
+import googlePlay from "@/assets/icons/play-store.png";
+import appStore from "@/assets/icons/app-store.png";
 
 import heroImage from '@/assets/images/hero-image.png'
 import whyCrypgoHeroImage from '@/assets/images/why-crypgo-hero.png'
@@ -54,7 +59,12 @@ export const icons = {
   iconForManage,
   iconForVault,
   mobileIcon,
-  tickMark
+  tickMark,
+  instagram,
+  twitter,
+  facebook,
+  googlePlay,
+  appStore
 };
 
 export const images = {
