@@ -51,10 +51,10 @@ const Header = () => {
           </li>
         ))}
         <li className="md:hidden w-full">
-          <Button className="w-full">Get Template</Button>
+          <Button className="w-full">Get Started</Button>
         </li>
       </ul>
-      <Button className="hidden lg:block">Get Template</Button>
+      <Button className="hidden lg:block">Get Started</Button>
     </section>
   );
 };
