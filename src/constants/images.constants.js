@@ -19,11 +19,13 @@ import iconForKickstart from '@/assets/icons/lightning.svg'
 import iconForManage from "@/assets/icons/manage.svg";
 import iconForVault from "@/assets/icons/vault.svg";
 import mobileIcon from "@/assets/icons/mobile.svg";
+import tickMark from "@/assets/icons/tick-mark.svg";
 
 import heroImage from '@/assets/images/hero-image.png'
 import whyCrypgoHeroImage from '@/assets/images/why-crypgo-hero.png'
 import whatWeOfferHeroImage from '@/assets/images/what-we-offer-hero.png'
 import featuresHeroImage from '@/assets/images/features-hero.png'
+import chartImage from '@/assets/images/chart.png'
 
 import shadow from '@/assets/overlays/shadow.svg'
 import overlay2 from '@/assets/overlays/overlay-2.svg'
@@ -51,13 +53,15 @@ export const icons = {
   iconForManage,
   iconForVault,
   mobileIcon,
+  tickMark
 };
 
 export const images = {
     heroImage,
     whyCrypgoHeroImage,
     whatWeOfferHeroImage,
-    featuresHeroImage
+    featuresHeroImage,
+    chartImage
 }
 export const overlays = {
     shadow,

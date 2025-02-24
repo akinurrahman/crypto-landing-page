@@ -118,3 +118,9 @@ export const features = [
     text: "Mobile apps",
   },
 ];
+
+
+export const cryptoUpgrade = [
+  "100% Secure", "No hidden fees", "Easy to use", "24/7 Support", "Fast transactions", "Low fees", "Advanced security", "User-friendly interface", 
+];
+

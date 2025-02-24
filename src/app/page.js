@@ -8,6 +8,7 @@ import Statistics from '@/components/landing-page/statictics'
 import WhatWeOffer from '@/components/landing-page/what-we-offer'
 import CryptoTrade from '@/components/landing-page/crypto-trade'
 import Features from '@/components/landing-page/features'
+import CryptoUpgrade from '@/components/landing-page/crypto-upgrade'
 
 const page = () => {
   return (
@@ -22,6 +23,7 @@ const page = () => {
       <WhatWeOffer />
       <CryptoTrade />
       <Features />
+      <CryptoUpgrade />
     </div>
   );
 }
