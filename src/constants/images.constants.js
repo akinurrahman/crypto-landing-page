@@ -7,7 +7,6 @@ import trust2 from '@/assets/icons/trusted-by-2.svg'
 import trust3 from '@/assets/icons/trusted-by-3.svg'
 import trust4 from '@/assets/icons/trusted-by-4.svg'
 import trust5 from '@/assets/icons/trusted-by-5.svg'
-
 import bitcoin from '@/assets/icons/bitcoin.svg'
 import ethereum from '@/assets/icons/ethereum.svg'
 import lightcoin from '@/assets/icons/lightcoin.svg'
@@ -23,6 +22,8 @@ import whyCrypgoHeroImage from '@/assets/images/why-crypgo-hero.png'
 import whatWeOfferHeroImage from '@/assets/images/what-we-offer-hero.png'
 
 import shadow from '@/assets/overlays/shadow.svg'
+import overlay2 from '@/assets/overlays/overlay-2.svg'
+
 
 export const icons = {
     logo,
@@ -51,5 +52,6 @@ export const images = {
     whatWeOfferHeroImage
 }
 export const overlays = {
-    shadow
+    shadow,
+    overlay2
 }
