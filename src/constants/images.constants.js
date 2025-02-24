@@ -20,6 +20,7 @@ import iconForKickstart from '@/assets/icons/lightning.svg'
 
 import heroImage from '@/assets/images/hero-image.png'
 import whyCrypgoHeroImage from '@/assets/images/why-crypgo-hero.png'
+import whatWeOfferHeroImage from '@/assets/images/what-we-offer-hero.png'
 
 import shadow from '@/assets/overlays/shadow.svg'
 
@@ -46,7 +47,8 @@ export const icons = {
 
 export const images = {
     heroImage,
-    whyCrypgoHeroImage
+    whyCrypgoHeroImage,
+    whatWeOfferHeroImage
 }
 export const overlays = {
     shadow

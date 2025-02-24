@@ -5,6 +5,7 @@ import TrustedBy from '@/components/landing-page/trusted-by'
 import FeaturedCryptoCoins from '@/components/landing-page/featured-coins'
 import WhyCrypgo from '@/components/landing-page/why-crypgo'
 import Statistics from '@/components/landing-page/statictics'
+import WhatWeOffer from '@/components/landing-page/what-we-offer'
 
 const page = () => {
   return (
@@ -16,6 +17,7 @@ const page = () => {
       <FeaturedCryptoCoins />
       <WhyCrypgo />
       <Statistics />
+      <WhatWeOffer />
     </div>
   );
 }
