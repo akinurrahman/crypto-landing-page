@@ -8,6 +8,13 @@ import trust3 from '@/assets/icons/trusted-by-3.svg'
 import trust4 from '@/assets/icons/trusted-by-4.svg'
 import trust5 from '@/assets/icons/trusted-by-5.svg'
 
+import bitcoin from '@/assets/icons/bitcoin.svg'
+import ethereum from '@/assets/icons/ethereum.svg'
+import lightcoin from '@/assets/icons/lightcoin.svg'
+import polkadot from '@/assets/icons/polkadot.svg'
+import solana from '@/assets/icons/solana.svg'
+import chainlink from '@/assets/icons/chainlink.svg'
+
 
 import heroImage from '@/assets/images/hero-image.png'
 
@@ -22,7 +29,13 @@ export const icons = {
     trust2,
     trust3,
     trust4,
-    trust5
+    trust5,
+    bitcoin,
+    ethereum,
+    lightcoin,
+    polkadot,
+    solana,
+    chainlink
 }
 
 export const images = {

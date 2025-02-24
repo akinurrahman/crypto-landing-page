@@ -2,6 +2,7 @@ import React from 'react'
 import Header from '@/components/landing-page/header'
 import HeroSection from '@/components/landing-page/hero-section'
 import TrustedBy from '@/components/landing-page/trusted-by'
+import FeaturedCryptoCoins from '@/components/landing-page/featured-coins'
 
 const page = () => {
   return (
@@ -10,6 +11,7 @@ const page = () => {
       <Header />
       <HeroSection />
       <TrustedBy />
+      <FeaturedCryptoCoins />
     </div>
   );
 }

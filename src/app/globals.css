@@ -8,6 +8,7 @@
     --foreground: 0, 0%, 100%;
     --primary: 124 57% 75%;
     --primary-foreground: 221 100% 3%;
+    --border: 0, 0%, 100%, 0.1;
     
   }
 }
@@ -15,5 +16,14 @@
 @layer base {
   body {
     @apply bg-background text-foreground;
+  }
+  *{
+    @apply border-border;
+  }
+}
+
+@layer components {
+  .heading-primary {
+    @apply font-semibold text-[24px] lg:text-[30px] xl:text-[40px] tracking-tight leading-[120%] ;
   }
 }

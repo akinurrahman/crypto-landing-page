@@ -6,7 +6,7 @@ import { overlays } from "@/constants/images.constants";
 const TrustedBy = () => {
  
   return (
-    <section className="mt-[72px]">
+    <section className="my-[72px]">
       <h2 className="text-center text-lg tracking-tight  mb-[20px] md:mb-[30px] ">
         Trusted by top <span className="text-primary">Crypto Platforms</span>
       </h2>
