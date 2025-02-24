@@ -26,6 +26,7 @@ import whyCrypgoHeroImage from '@/assets/images/why-crypgo-hero.png'
 import whatWeOfferHeroImage from '@/assets/images/what-we-offer-hero.png'
 import featuresHeroImage from '@/assets/images/features-hero.png'
 import chartImage from '@/assets/images/chart.png'
+import graph from '@/assets/images/graph.png'
 
 import shadow from '@/assets/overlays/shadow.svg'
 import overlay2 from '@/assets/overlays/overlay-2.svg'
@@ -61,7 +62,8 @@ export const images = {
     whyCrypgoHeroImage,
     whatWeOfferHeroImage,
     featuresHeroImage,
-    chartImage
+    chartImage,
+    graph
 }
 export const overlays = {
     shadow,

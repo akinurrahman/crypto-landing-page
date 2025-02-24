@@ -9,6 +9,7 @@ import WhatWeOffer from '@/components/landing-page/what-we-offer'
 import CryptoTrade from '@/components/landing-page/crypto-trade'
 import Features from '@/components/landing-page/features'
 import CryptoUpgrade from '@/components/landing-page/crypto-upgrade'
+import BeTheFirstUser from '@/components/landing-page/be-the-first-user'
 
 const page = () => {
   return (
@@ -24,6 +25,7 @@ const page = () => {
       <CryptoTrade />
       <Features />
       <CryptoUpgrade />
+      <BeTheFirstUser />
     </div>
   );
 }
