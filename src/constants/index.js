@@ -1,3 +1,5 @@
+import { icons } from "./images.constants";
+
 export const navLinks = [
     {
         label: 'Features',
@@ -21,3 +23,11 @@ export const navLinks = [
     }
     
 ]
+
+export  const trustedBy = [
+  icons.trust1,
+  icons.trust2,
+  icons.trust3,
+  icons.trust4,
+  icons.trust5,
+];
