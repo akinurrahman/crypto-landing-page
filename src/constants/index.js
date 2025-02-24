@@ -87,3 +87,22 @@ export const whyCrypgo = [
     icon : icons.settingIcon,
   }
 ]
+
+export const statistics = [
+  {
+    title: 'Active Users',
+    value: '6M+',
+  },
+  {
+    title: 'Users support',
+    value: '24/7',
+  },
+  {
+    title: 'Countries',
+    value: '160+',
+  },
+  {
+    title: 'Trade Volume',
+    value: '$22B+',
+  },
+]

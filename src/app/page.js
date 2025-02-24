@@ -4,6 +4,7 @@ import HeroSection from '@/components/landing-page/hero-section'
 import TrustedBy from '@/components/landing-page/trusted-by'
 import FeaturedCryptoCoins from '@/components/landing-page/featured-coins'
 import WhyCrypgo from '@/components/landing-page/why-crypgo'
+import Statistics from '@/components/landing-page/statictics'
 
 const page = () => {
   return (
@@ -14,6 +15,7 @@ const page = () => {
       <TrustedBy />
       <FeaturedCryptoCoins />
       <WhyCrypgo />
+      <Statistics />
     </div>
   );
 }
