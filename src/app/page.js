@@ -7,6 +7,7 @@ import WhyCrypgo from '@/components/landing-page/why-crypgo'
 import Statistics from '@/components/landing-page/statictics'
 import WhatWeOffer from '@/components/landing-page/what-we-offer'
 import CryptoTrade from '@/components/landing-page/crypto-trade'
+import Features from '@/components/landing-page/features'
 
 const page = () => {
   return (
@@ -20,6 +21,7 @@ const page = () => {
       <Statistics />
       <WhatWeOffer />
       <CryptoTrade />
+      <Features />
     </div>
   );
 }

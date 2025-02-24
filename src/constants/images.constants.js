@@ -16,40 +16,48 @@ import chainlink from '@/assets/icons/chainlink.svg'
 import settingIcon from '@/assets/icons/setting.svg'
 import iconForDesign from '@/assets/icons/clip.svg'
 import iconForKickstart from '@/assets/icons/lightning.svg'
+import iconForManage from "@/assets/icons/manage.svg";
+import iconForVault from "@/assets/icons/vault.svg";
+import mobileIcon from "@/assets/icons/mobile.svg";
 
 import heroImage from '@/assets/images/hero-image.png'
 import whyCrypgoHeroImage from '@/assets/images/why-crypgo-hero.png'
 import whatWeOfferHeroImage from '@/assets/images/what-we-offer-hero.png'
+import featuresHeroImage from '@/assets/images/features-hero.png'
 
 import shadow from '@/assets/overlays/shadow.svg'
 import overlay2 from '@/assets/overlays/overlay-2.svg'
 
 
 export const icons = {
-    logo,
-    arrowRight,
-    menuIcon,
-    closeIcon,
-    trust1,
-    trust2,
-    trust3,
-    trust4,
-    trust5,
-    bitcoin,
-    ethereum,
-    lightcoin,
-    polkadot,
-    solana,
-    chainlink,
-    settingIcon,
-    iconForDesign,
-    iconForKickstart
-}
+  logo,
+  arrowRight,
+  menuIcon,
+  closeIcon,
+  trust1,
+  trust2,
+  trust3,
+  trust4,
+  trust5,
+  bitcoin,
+  ethereum,
+  lightcoin,
+  polkadot,
+  solana,
+  chainlink,
+  settingIcon,
+  iconForDesign,
+  iconForKickstart,
+  iconForManage,
+  iconForVault,
+  mobileIcon,
+};
 
 export const images = {
     heroImage,
     whyCrypgoHeroImage,
-    whatWeOfferHeroImage
+    whatWeOfferHeroImage,
+    featuresHeroImage
 }
 export const overlays = {
     shadow,
