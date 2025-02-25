@@ -25,7 +25,7 @@ A modern and responsive landing page for a crypto exchange, built using **Next.j
 
 This design is inspired by a Figma template.
 
-- **Design by:** Danial Habib
+
 - **Figma File:** https://www.figma.com/community/file/1466037070383869692/crypgo-landing-page-design-template-modern-web3-designs-for-crypto-saas-mobile-apps
 - **Converted to Code by:** Akinur Rahman
 - **Live Demo:** https://crypgo.akinurrahman.com
