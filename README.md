@@ -1,36 +1,59 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Crypgo Landing Page
 
-## Getting Started
+A modern and responsive landing page for a crypto exchange, built using **Next.js**, and **Tailwind CSS**. This project is part of my portfolio showcasing frontend development skills.
 
-First, run the development server:
+## ✨ Features
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- Fully responsive design
+- Modern UI with smooth transitions
+- Tailwind CSS for styling
+- Optimized for performance
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🚀 Tech Stack
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+- **Framework:** Next.js (App Router)
+- **Styling:** Tailwind CSS
+- **Components:** Reusable UI elements
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 📸 Screenshots
 
-## Learn More
+![image](/public/ss.png)
 
-To learn more about Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 🎨 Design Credits
 
-## Deploy on Vercel
+This design is inspired by a Figma template.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- **Design by:** Danial Habib
+- **Figma File:** https://www.figma.com/community/file/1466037070383869692/crypgo-landing-page-design-template-modern-web3-designs-for-crypto-saas-mobile-apps
+- **Converted to Code by:** Akinur Rahman
+- **Live Demo:** https://crypgo.akinurrahman.com
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+
+## 🛠 Installation & Setup
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/akinurrahman/crypto-landing-page.git
+   cd travel-crypto-landing-page
+   ```
+2. Install dependencies:
+   ```bash
+   npm install 
+   ```
+3. Run the development server:
+   ```bash
+   npm run dev 
+   ```
+4. Open [http://localhost:3000](http://localhost:3000) to see the project in action.
+
+
+## 📝 License
+
+This project is for portfolio purposes only and should not be used for commercial purposes without proper permissions. Since the design is not originally mine, it **cannot** be used for any commercial purposes.
+
+
+
+
